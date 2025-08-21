@@ -1,3 +1,5 @@
+//A departement is about to purchase a humanoid robot. This program shows a greeting script between the robot and the visitor.
+
 #include <iostream>
 #include <string> // for the string variables and constants
 #include <iomanip> // for setprecision and fixed
